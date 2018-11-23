@@ -8,6 +8,7 @@ gem 'sqlite3'
 gem 'puma'
 gem 'uglifier'
 gem 'webpacker'
+gem 'foreman'
 
 gem 'bootsnap', require: false
 
