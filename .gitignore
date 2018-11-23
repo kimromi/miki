@@ -28,6 +28,6 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
-/public/packs
-/public/packs-test
+/public/miki
+/public/miki-test
 /node_modules
